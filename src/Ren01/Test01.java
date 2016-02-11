@@ -23,7 +23,7 @@ public class Test01 {
 		System.out.println(z == k);
 		System.out.println(x.equals(y));
 		//コメント
-		
+		//winコメント
 		
 		
 		
